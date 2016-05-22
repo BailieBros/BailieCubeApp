@@ -8,6 +8,7 @@ namespace MVCBailieCubeApp.Controllers
 {
     public class HomeController : Controller
     {
+        // This is a comment for testing purposes
         public ActionResult Index()
         {
             return View();
