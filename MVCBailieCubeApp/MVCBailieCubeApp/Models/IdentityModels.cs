@@ -29,5 +29,9 @@ namespace MVCBailieCubeApp.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<MVCBailieCubeApp.Models.Cube> Cubes { get; set; }
+
+        public System.Data.Entity.DbSet<MVCBailieCubeApp.Models.Card> Cards { get; set; }
     }
 }

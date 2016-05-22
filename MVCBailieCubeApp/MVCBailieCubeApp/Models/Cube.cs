@@ -5,7 +5,7 @@ using System.Web;
 
 namespace MVCBailieCubeApp.Models
 {
-    public class Cubes
+    public class Cube
     {
         public int CubeID { get; set; }
         public string CubeTitle { get; set; }
