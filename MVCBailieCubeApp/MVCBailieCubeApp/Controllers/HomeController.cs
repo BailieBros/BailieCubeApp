@@ -14,7 +14,7 @@ namespace MVCBailieCubeApp.Controllers
         {
             return View();
         }
-        // Comment from Sky
+        // Comment from Sky because i'm cool
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
