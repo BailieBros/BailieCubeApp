@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
+// This is where the Seahawks are so cool!
 namespace MVCBailieCubeApp.Controllers
 {
     public class HomeController : Controller
